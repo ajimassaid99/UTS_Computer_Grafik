@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Users\Massa\OneDrive\Documents\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiC:\Users\Massa\OneDrive\Documents\kuliah\UTS\lib\x86_64-win64 &quot;-FuC:\Users\Massa\OneDrive\Documents\kuliah\UTS FIX&quot; -FuC:\Users\Massa\OneDrive\Documents\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Users\Massa\OneDrive\Documents\lazarus\lcl\units\x86_64-win64 -FuC:\Users\Massa\OneDrive\Documents\lazarus\components\freetype\lib\x86_64-win64 -FuC:\Users\Massa\OneDrive\Documents\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Users\Massa\OneDrive\Documents\lazarus\packager\units\x86_64-win64 -FuC:\Users\Massa\OneDrive\Documents\kuliah\UTS\ -FUC:\Users\Massa\OneDrive\Documents\kuliah\UTS\lib\x86_64-win64\ -FEC:\Users\Massa\OneDrive\Documents\kuliah\UTS\ -oC:\Users\Massa\OneDrive\Documents\kuliah\UTS\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
